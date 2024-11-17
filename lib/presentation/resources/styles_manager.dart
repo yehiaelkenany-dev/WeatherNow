@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:weather_now/presentation/font_manager.dart';
+import 'package:weather_now/presentation/resources/font_manager.dart';
 
 TextStyle _getTextStyle(double fontSize, FontWeight fontWeight, Color color) {
   return TextStyle(
