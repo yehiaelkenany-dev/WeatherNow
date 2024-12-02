@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:weather_now/presentation/forget_password/forget_password_screen.dart';
 import 'package:weather_now/presentation/login/login_screen.dart';
 import 'package:weather_now/presentation/main/main_screen.dart';
-import 'package:weather_now/presentation/onboarding/onboarding_screen.dart';
+import 'package:weather_now/presentation/onboarding/view/onboarding_screen.dart';
 import 'package:weather_now/presentation/register/register_screen.dart';
 import 'package:weather_now/presentation/resources/strings_manager.dart';
 import 'package:weather_now/presentation/splash/splash_screen.dart';

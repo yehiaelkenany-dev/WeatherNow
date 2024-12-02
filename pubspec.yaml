@@ -32,6 +32,14 @@ dependencies:
     sdk: flutter
   flutter_svg: ^2.0.14
   hugeicons: ^0.0.7
+  retrofit: ^4.4.1
+  analyzer: ^6.7.0
+  dio: ^5.7.0
+  json_serializable: ^6.9.0
+  retrofit_generator: ^9.1.5
+  build_runner: ^2.4.13
+  json_annotation: ^4.9.0
+
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
